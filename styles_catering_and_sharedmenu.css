@@ -358,7 +358,6 @@ article:has(:hover, :focus) {
 
 .bgimg-card-3 {
     background-image: url("./img/card-4.avif");
-    min-height: 130px;
 }
 
 .shared-menu-card h1 {
